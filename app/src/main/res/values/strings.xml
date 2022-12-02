@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">4.3.2 Learning Task 4.2</string>
+    <string name="title">Can you retire at 60?</string>
+    <string name="age">Your age</string>
+    <string name="annual">Annual Income</string>
+    <string name="year">Yearly Expense</string>
+    <string name="button">Go</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="congrats1">Your net worth of </string>
+    <string name="congrats2">allows you to retire comfortably!</string>
+    <string name="cannot">Unfortunately</string>
+    <string name="cannot1">Your net worth of</string>
+    <string name="cannot2">does not allow you to retire comfortably.</string>
+    <string name="error">You did not enter any number.</string>
+    <string name="back">Return</string>
+</resources>
